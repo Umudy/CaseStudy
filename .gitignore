@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TemplateCore.Api/bin/Debug/netcoreapp3.1
+/TemplateCore.Api/LogFile.txt
+/TemplateCore.Api/obj
+/TemplateCore.Api/Properties
+/TemplateCore.Api/TemplateCore.Api.csproj.user
+/TemplateCore.Business
+/TemplateCore.DataAccess
+/TemplateCore.Domain/bin/Debug/netcoreapp3.1
+/TemplateCore.Domain/obj
+/TemplateCore.Domain
